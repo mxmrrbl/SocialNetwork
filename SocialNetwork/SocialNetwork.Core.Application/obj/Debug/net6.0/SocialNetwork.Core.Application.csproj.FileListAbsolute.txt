@@ -1,0 +1,15 @@
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\bin\Debug\net6.0\SocialNetwork.Core.Application.deps.json
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\bin\Debug\net6.0\SocialNetwork.Core.Application.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\bin\Debug\net6.0\SocialNetwork.Core.Application.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\bin\Debug\net6.0\SocialNetwork.Core.Domain.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\bin\Debug\net6.0\SocialNetwork.Core.Domain.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\SocialNetwork.Core.Application.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\SocialNetwork.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\SocialNetwork.Core.Application.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\SocialNetwork.Core.Application.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\SocialNetwork.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\SocialNetwork.Core.Application.csproj.CopyComplete
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\SocialNetwork.Core.Application.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\refint\SocialNetwork.Core.Application.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\SocialNetwork.Core.Application.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Application\obj\Debug\net6.0\ref\SocialNetwork.Core.Application.dll

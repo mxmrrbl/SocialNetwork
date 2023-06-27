@@ -1,0 +1,12 @@
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\bin\Debug\net6.0\SocialNetwork.Core.Domain.deps.json
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\bin\Debug\net6.0\SocialNetwork.Core.Domain.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\bin\Debug\net6.0\SocialNetwork.Core.Domain.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\obj\Debug\net6.0\SocialNetwork.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\obj\Debug\net6.0\SocialNetwork.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\obj\Debug\net6.0\SocialNetwork.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\obj\Debug\net6.0\SocialNetwork.Core.Domain.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\obj\Debug\net6.0\SocialNetwork.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\obj\Debug\net6.0\SocialNetwork.Core.Domain.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\obj\Debug\net6.0\refint\SocialNetwork.Core.Domain.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\obj\Debug\net6.0\SocialNetwork.Core.Domain.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Core.Domain\obj\Debug\net6.0\ref\SocialNetwork.Core.Domain.dll

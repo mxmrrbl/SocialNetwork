@@ -1,0 +1,32 @@
+﻿@using SocialNetwork.Core.Application.ViewModels.User;
+@model ValidateUserViewModel
+
+@{
+	ViewData["Title"] = "Login";
+}
+
+<div class="text-center my-5">
+
+		<h1 class="fw-light mb-3 my-2">Reset my password</h1>
+</div>
+
+<div class="login my-5 ">
+
+	<span class="text-danger">@ViewBag.ms</span>
+	<form class="login-form card shadow-sm p-5" method="post" asp-controller="Users" asp-action="NewPassword">
+		<div class="mb-3">
+
+			<input placeholder="Search by user name" class="form-control" type="search" asp-for="UserName" />
+			<span class="text-danger" asp-validation-for="UserName"> </span>
+
+		</div>
+
+		<button type="submit" class="btn btn-primary">Continue</button>
+
+		<a class=" my-2 btn btn-light shadow-sm" asp-controller="Users" asp-action="Index">Cancel</a>
+
+	</form>
+
+	
+
+</div>

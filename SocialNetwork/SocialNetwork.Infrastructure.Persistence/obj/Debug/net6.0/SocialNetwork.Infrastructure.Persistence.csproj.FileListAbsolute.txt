@@ -1,0 +1,17 @@
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\bin\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.deps.json
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\bin\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\bin\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\bin\Debug\net6.0\SocialNetwork.Core.Application.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\bin\Debug\net6.0\SocialNetwork.Core.Domain.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\bin\Debug\net6.0\SocialNetwork.Core.Application.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\bin\Debug\net6.0\SocialNetwork.Core.Domain.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\refint\SocialNetwork.Infrastructure.Persistence.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\SocialNetwork.Infrastructure.Persistence.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Persistence\obj\Debug\net6.0\ref\SocialNetwork.Infrastructure.Persistence.dll

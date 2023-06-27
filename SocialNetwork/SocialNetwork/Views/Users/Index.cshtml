@@ -1,0 +1,29 @@
+﻿@using SocialNetwork.Core.Application.ViewModels.User;
+@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="login">
+    @Html.ValidationSummary(false, "", new {@class = "text-danger"})
+    <form class="login-form" asp-controller="Users" asp-action="Index">
+        <h1 class="h3 mb-3 fw-normal">Log in</h1>
+
+        <div class="form-floating mb-3">
+            <input asp-for="UserName" class="form-control" placeholder="name@example.com">
+            <label for="floatingInput">User name</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="password" asp-for="Password" class="form-control" placeholder="Password">
+            <label for="floatingPassword">Password</label>
+        </div>
+
+        <button class="w-100 btn btn-lg btn-primary" type="submit">Log in</button>
+
+        <a class="w-100 my-2 btn btn-light shadow-sm" asp-controller="Users" asp-action="Register">Register</a>
+        
+    </form>
+
+    <a asp-controller="Users" asp-action="ValidateUserResetPass" class="mt-5 mb-3 text-muted">Reset password</a>
+
+</div>

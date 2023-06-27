@@ -1,0 +1,17 @@
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\bin\Debug\net6.0\SocialNetwork.Infrastructure.Shared.deps.json
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\bin\Debug\net6.0\SocialNetwork.Infrastructure.Shared.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\bin\Debug\net6.0\SocialNetwork.Infrastructure.Shared.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\bin\Debug\net6.0\SocialNetwork.Core.Application.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\bin\Debug\net6.0\SocialNetwork.Core.Domain.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\bin\Debug\net6.0\SocialNetwork.Core.Application.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\bin\Debug\net6.0\SocialNetwork.Core.Domain.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\SocialNetwork.Infrastructure.Shared.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\SocialNetwork.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\SocialNetwork.Infrastructure.Shared.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\SocialNetwork.Infrastructure.Shared.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\SocialNetwork.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\SocialNetwork.Infrastructure.Shared.csproj.CopyComplete
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\SocialNetwork.Infrastructure.Shared.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\refint\SocialNetwork.Infrastructure.Shared.dll
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\SocialNetwork.Infrastructure.Shared.pdb
+C:\Users\Maxi\source\repos\SocialNetwork\SocialNetwork.Infrastructure.Shared\obj\Debug\net6.0\ref\SocialNetwork.Infrastructure.Shared.dll

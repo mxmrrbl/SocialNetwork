@@ -1,0 +1,62 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+
+}
+
+.login-form{
+    width: 30%;
+}
+
+.ProfileImage{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.cm-user-img {
+    width: 25px;
+    border-radius: 50%;
+}
+
+.cm-friend-img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.div-card {
+    width: 50%;
+}
+
+.div-card-friends {
+    width: 65%;
+}
+
+.my-friends-div{
+    height: auto;
+}
+
+.friend-name{
+    font-size:large;
+}
